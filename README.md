@@ -1,2 +1,2 @@
 # fraud_detection
-Implementação de modelo de machine learning para determinar se uma transação financeira é resultado de fraude.
+Implementação de modelo de machine learning de árvore de decisão (aprendizagem supervisionada) para detectar fraudes financeiras.
